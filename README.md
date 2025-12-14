@@ -2,7 +2,7 @@
 
 # 🛍️ Shopping Behavior Analysis 
 
-> **รายวิชา:** DS512/DS513 Data Analytics และ DS514/DS515 Data Science
+**รายวิชา:** DS512/DS513 Data Analytics และ DS514/DS515 Data Science
 ---
 ---
 
